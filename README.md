@@ -1,5 +1,5 @@
 # Wafiy's Portfolio 🖥-
-Welcome to my data portfolio. Here, I compiling all of my project in data analytics field.
+Welcome to my data portfolio. Here, I compiling all of my project to present my ability as Data Analyst.
 
 ## Table of Contents 📰
 * SQL 
