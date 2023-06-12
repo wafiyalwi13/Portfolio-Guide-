@@ -6,9 +6,9 @@ SQL
 Tableau
 
 # SQL
-| Project Link | Area of Analysis | Project Description |
-| ------------ | ---------------- | ------------------- |
-| SQL Murder Mystery | Data Analysis | The basic challenge for understanding the investigative as data analyst |
+| Project Link       |   Area of Analysis           | Project Description     |
+| ------------------ | -----------------------------| ------------------- |
+| SQL Murder Mystery | Data Analysis           | The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime |
 
 
 
