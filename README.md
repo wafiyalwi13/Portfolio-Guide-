@@ -4,6 +4,7 @@ Welcome to my data portfolio. Here, I compiling all of my project to present my 
 ## Table of Contents 📰
 * SQL 
 * Tableau
+* Python (Numpy, Pandas, Matplotlib, Seaborn)
 
 # SQL
 | Project Name &         |   Area of Analysis           | Project Description     |
@@ -15,8 +16,13 @@ Welcome to my data portfolio. Here, I compiling all of my project to present my 
 | Project Name    | Project Description       |
 | ---------------- | ------------------------ | 
 | [Covid-19 Vaccine Tracker](https://public.tableau.com/app/profile/wafiy.alwi/viz/Covid-19MultipleVaccineTrackerMarch2023/GlobalVaccineTracker)                   |  A Dashboard to track what shares of population were fully, partially or not vaccinated against Covid-19 disease|                  
-|   [Sales Dashboard -KPI Current vs Past Year](https://public.tableau.com/app/profile/wafiy.alwi/viz/SalesDashboard-KPIofCurrentPastYear/Dashboard)                 | A comparisons of performance between current and past year of a company to track changes and company profit |             
+|   [Sales Dashboard -KPI Current vs Past Year](https://public.tableau.com/app/profile/wafiy.alwi/viz/SalesDashboard-KPIofCurrentPastYear/Dashboard)                 | A comparisons of performance between current and past year of a company to track changes and company profit | 
 
+
+# Python
+| Project Name    | Area of Analysis | Project Description     |
+| --------------  | -----------------| ---------------------   |
+| [Weather Dataset](https://github.com/wafiyalwi13/Weather_Dataset) | Data Cleaning & Data Wrangling, (Numpy & Pandas) | Using data from excel and transform and manipulate using pandas and numpy library | 
 
 
 
