@@ -20,9 +20,9 @@ Welcome to my data portfolio. Here, I compiling all of my project to present my 
 
 
 # Python
-| Project Name    | Area of Analysis | Project Description     |
-| --------------  | -----------------| ---------------------   |
-| [Weather Dataset](https://github.com/wafiyalwi13/Weather_Dataset) | Data Cleaning & Data Wrangling, (Numpy & Pandas) | Using data from excel and transform and manipulate using pandas and numpy library | 
+| Project Name    | Area of Analysis | Project Description     | Libraries  |
+| --------------  | -----------------| ---------------------   | -----------|
+| [Weather Dataset](https://github.com/wafiyalwi13/Weather_Dataset) | Data Cleaning & Data Wrangling | Using data from excel and transform and manipulate to answer question | Numpy & Pandas | 
 
 
 
