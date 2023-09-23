@@ -23,6 +23,7 @@ Welcome to my data portfolio. Here, I compiling all of my project to present my 
 | Project Name    | Area of Analysis | Project Description     | Libraries  |
 | --------------  | -----------------| ---------------------   | -----------|
 | [Weather Dataset](https://github.com/wafiyalwi13/Weather_Dataset) | Data Cleaning & Data Wrangling | Using data from excel and transform and manipulate to answer question | Numpy & Pandas | 
+| [Malaysia Prediction of Net Income Based on 50 Years Data](https://github.com/wafiyalwi13/Malaysia-Adjusted-Net-Income-Percapita/blob/main/Malaysia%20-%20adjusted%20net%20income%20per%20capita%20predicted%202021.ipynb)  | EDA, Data Wrangling & Time Series Analysis | Extracting raw data from WorldBank.org, transform it using excel and do the analysis using Python libraries | Pandas, Matplotlib & Seaborn | 
 
 
 
